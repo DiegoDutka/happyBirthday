@@ -1,0 +1,45 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.925);
+    color: whitesmoke;
+    width: 50%;
+    margin: auto;
+
+}
+audio:hover
+{
+box-shadow: 15px 15px 20px rgba(192, 99, 99, 0.4);
+transform: scale(1.05);
+}
+audio
+{
+transition:all 0.5s linear;
+box-shadow: 2px 2px 4px 0px #520073;
+border-radius:7px 7px 7px 7px ;
+}
+.coord{
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    width: 50%;
+    margin: auto;
+    border: rgb(116, 115, 115);
+    border-style: dashed;
+}
+.pista2{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    width: 50%;
+    margin: auto;
+    border: rgb(0, 0, 0);
+    border-style: dashed;
+}
+.regalo>img{
+    width: 50%;
+    
+}
