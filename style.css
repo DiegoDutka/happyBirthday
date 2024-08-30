@@ -8,7 +8,7 @@ body {
 .main{
     background-color: rgba(0, 0, 0, 0.925);
     color: whitesmoke;
-    width: 50%;
+    width: 80%;
     margin: auto;
 
 }
@@ -26,7 +26,7 @@ border-radius:7px 7px 7px 7px ;
 .coord{
     background-color: rgb(0, 0, 0);
     color: #ffffff;
-    width: 50%;
+    width: 80%;
     margin: auto;
     border: rgb(116, 115, 115);
     border-style: dashed;
@@ -34,12 +34,12 @@ border-radius:7px 7px 7px 7px ;
 .pista2{
     background-color: rgb(255, 255, 255);
     color: #000000;
-    width: 50%;
+    width: 80%;
     margin: auto;
     border: rgb(0, 0, 0);
     border-style: dashed;
 }
 .regalo>img{
-    width: 50%;
+    width: 80%;
     
 }
